@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * puts_half - lenght of string
  * @str:char
